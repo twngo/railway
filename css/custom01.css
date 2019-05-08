@@ -112,7 +112,7 @@ label {
     width: 41.66666667%;
     height: 100%;	
     padding: 20px;
-    background: url(../images/event-banner.jpg);
+    background: url(../images/locomotive.jpg);
 	background-position: center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -140,7 +140,7 @@ label {
 	color: #fff;
     margin: 0;
     left: 20px;
-    bottom: 80px;
+    top: 80px;
 }
 
 
@@ -149,8 +149,7 @@ label {
     display: block;
     text-transform: uppercase;
     font-size: 1.5vw;
-    margin-bottom: 80px;
-}
+} 
 
 .event-banner-wrapper p {
     position: absolute;
