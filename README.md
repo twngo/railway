@@ -4,5 +4,5 @@
 
 [進度與待辦事項](https://github.com/twngo/railway/projects/1)
 
-[線上聊天室](https://twngo.slack.com)(索取[加入邀請信](https://to.twgno.xyz/slack-signup))  
+[線上聊天室](https://twngo.slack.com)(索取[加入邀請信](https://to.twngo.xyz/slack-signup))  
 
